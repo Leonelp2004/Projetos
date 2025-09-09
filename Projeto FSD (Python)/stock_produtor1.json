@@ -1,0 +1,57 @@
+{
+    "computador": {
+        "categoria": "eletrônicos",
+        "quantidade": 3870,
+        "preco": 1000.0
+    },
+    "livro": {
+        "categoria": "livros",
+        "quantidade": 2130,
+        "preco": 20.0
+    },
+    "melancia": {
+        "categoria": "alimentos",
+        "quantidade": 4100,
+        "preco": 5.0
+    },
+    "rato": {
+        "categoria": "eletrônicos",
+        "quantidade": 4050,
+        "preco": 30.0
+    },
+    "livro2": {
+        "categoria": "livros",
+        "quantidade": 4065,
+        "preco": 40.0
+    },
+    "maçã": {
+        "categoria": "alimentos",
+        "quantidade": 4100,
+        "preco": 8.0
+    },
+    "telemovel": {
+        "categoria": "eletrônicos",
+        "quantidade": 4060,
+        "preco": 500.0
+    },
+    "livro3": {
+        "categoria": "livros",
+        "quantidade": 4065,
+        "preco": 15.0
+    },
+    "pera": {
+        "categoria": "alimentos",
+        "quantidade": 4100,
+        "preco": 2.0
+    },
+    "livroTop": {
+        "categoria": "livros",
+        "quantidade": 2571,
+        "preco": 100.0
+    },
+    "livro11": {
+        "categoria": "livros",
+        "quantidade": 1285,
+        "preco": 100.0
+    }
+}
