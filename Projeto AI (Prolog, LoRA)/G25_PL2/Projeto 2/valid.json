@@ -1,0 +1,302 @@
+[
+  {
+    "text":"Paciente 1101 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>136 bpm) com confusão.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1102 com dor joelho com intensidade 5\/10.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1103 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1104 com congestão nasal e espirros.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1105 com dúvidas sobre vacinação.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1106 com choque séptico com febre 39.9°C e sudorese profusa.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1107 com dor ombro com intensidade 4\/10.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1108 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1109 com dor ligeira em cervical 7\/10.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1110 com seguimento de condição estável.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1111 com crise epilética tónico-clónica.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1112 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1113 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1114 com ferida superficial em nasal.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1115 com seguimento de condição estável.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1116 com hemorragia ativa craniana com hipotensão.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1117 com dor tórax com intensidade 8\/10.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1118 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1119 com congestão nasal e espirros.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1120 com revisão pós-operatória sem queixas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1121 com hemorragia ativa cutânea com hipotensão.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1122 com dor abdómen com intensidade 8\/10.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1123 com história de perda de consciência breve após queda.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1124 com ferida superficial em cutânea.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1125 com revisão pós-operatória sem queixas.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1126 com crise epilética tónica generalizada.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1127 com queda de altura >2 m com dor abdómen intensa.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1128 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1129 com cefaleia leve após stress.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1130 com revisão pós-operatória sem queixas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1131 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>124 bpm) com diminuição de estado de consciência.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1132 com hemorragia cutânea moderada e FC 129 bpm.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1133 com história de perda de consciência breve após queda.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1134 com cefaleia leve após stress.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1135 com avaliação de rotina sem sintomas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1136 com hemorragia ativa nasal com hipotensão.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1137 com dor membro inferior com intensidade 4\/10.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1138 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1139 com dor ligeira em membro inferior 5\/10.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1140 com necessita renovação de receita crónica.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1141 com crise epilética clónica generalizada.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1142 com hemorragia nasal moderada e FC 113 bpm.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1143 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1144 com edema localizado em olho direito.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1145 com revisão pós-operatória sem queixas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1146 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>118 bpm) com sudorese profusa.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1147 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1148 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1149 com cefaleia leve após stress.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1150 com avaliação de rotina sem sintomas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1151 com glicemia capilar inferior a 62 mg\/dL com diminuição de estado de consciência.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1152 com queda de altura >4 m com dor cervical intensa.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1153 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1154 com edema localizado em ombro.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1155 com avaliação de rotina sem sintomas.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1156 com glicemia capilar inferior a 40 mg\/dL com palidez cutânea.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1157 com hemorragia no pé moderada e FC 129 bpm.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1158 com fratura exposta em joelho.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1159 com tosse seca leve sem febre.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1160 com seguimento de condição estável.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1161 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>113 bpm) com confusão.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1162 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1163 com história de perda de consciência breve após queda.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1164 com edema localizado em olho esquerdo.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1165 com avaliação de rotina sem sintomas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1166 com crise epilética clónica generalizada.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1167 com queda de altura >4 m com dor lombar intensa.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1168 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1169 com dor ligeira em membro inferior 7\/10.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1170 com necessita renovação de receita crónica.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1171 com choque séptico com febre 40.1°C e diminuição de estado de consciência.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1172 com hipotermia com temperatura 39.2°C.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1173 com sinais de desidratação e vómitos persistentes.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1174 com edema localizado em cervical.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1175 com exame laboral habitual.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1176 com crise epilética clónica generalizada.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1177 com hipotermia com temperatura 40.9°C.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1178 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1179 com cefaleia leve após stress.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1180 com revisão pós-operatória sem queixas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1181 com glicemia capilar inferior a 58 mg\/dL com sudorese profusa.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1182 com hipotermia com temperatura 39.2°C.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1183 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1184 com tosse seca leve sem febre.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1185 com dúvidas sobre vacinação.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1186 com glicemia capilar inferior a 58 mg\/dL com sudorese profusa.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1187 com dor olho direito com intensidade 7\/10.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1188 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1189 com lombalgia ocasional sem irradiação.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1190 com avaliação de rotina sem sintomas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1191 com dor torácica súbita intensa com sudorese profusa.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1192 com hemorragia no pé moderada e FC 117 bpm.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1193 com história de perda de consciência breve após queda.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1194 com cefaleia leve após stress.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1195 com seguimento de condição estável.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1196 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>115 bpm) com cianose.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1197 com dor joelho com intensidade 6\/10.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1198 com dor abdómen moderada 5\/10.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1199 com tosse seca leve sem febre.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1200 com avaliação de rotina sem sintomas.\nResposta: Azul. Consulta de rotina. Alta."
+  }
+]

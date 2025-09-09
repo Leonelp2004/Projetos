@@ -1,0 +1,302 @@
+[
+  {
+    "text":"Paciente 1001 com dor torácica súbita intensa com sudorese profusa.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1002 com hemorragia no pé moderada e FC 124 bpm.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1003 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1004 com tosse seca leve sem febre.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1005 com exame laboral habitual.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1006 com hemorragia ativa craniana com hipotensão.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1007 com dor tornozelo com intensidade 4\/10.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1008 com fratura exposta em cervical.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1009 com congestão nasal e espirros.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1010 com dúvidas sobre vacinação.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1011 com dor torácica súbita intensa com dispneia importante.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1012 com hemorragia cutânea moderada e FC 147 bpm.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1013 com dor ombro moderada 9\/10.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1014 com tosse seca leve sem febre.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1015 com exame laboral habitual.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1016 com dor torácica súbita intensa com dispneia importante.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1017 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1018 com história de perda de consciência breve após queda.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1019 com cefaleia leve após stress.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1020 com revisão pós-operatória sem queixas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1021 com hemorragia ativa cutânea com hipotensão.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1022 com dor lombar com intensidade 5\/10.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1023 com fratura exposta em lombar.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1024 com cefaleia leve após stress.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1025 com exame laboral habitual.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1026 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>136 bpm) com sudorese profusa.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1027 com hemorragia abdominal moderada e FC 126 bpm.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1028 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1029 com tosse seca leve sem febre.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1030 com revisão pós-operatória sem queixas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1031 com dor torácica súbita intensa com sudorese profusa.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1032 com hipotermia com temperatura 40.0°C.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1033 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1034 com lombalgia ocasional sem irradiação.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1035 com exame laboral habitual.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1036 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>140 bpm) com diminuição de estado de consciência.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1037 com hipotermia com temperatura 40.7°C.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1038 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1039 com congestão nasal e espirros.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1040 com seguimento de condição estável.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1041 com choque séptico com febre 39.8°C e sudorese profusa.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1042 com hemorragia cutânea moderada e FC 118 bpm.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1043 com fratura exposta em tórax.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1044 com dor ligeira em ombro 7\/10.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1045 com seguimento de condição estável.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1046 com dor torácica súbita intensa com palidez cutânea.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1047 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1048 com fratura exposta em olho esquerdo.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1049 com lombalgia ocasional sem irradiação.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1050 com exame laboral habitual.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1051 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>116 bpm) com confusão.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1052 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1053 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1054 com edema localizado em ombro.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1055 com exame laboral habitual.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1056 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>140 bpm) com sudorese profusa.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1057 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Hipotermia. Aquecimento ativo."
+  },
+  {
+    "text":"Paciente 1058 com dor colo do útero moderada 6\/10.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1059 com tosse seca leve sem febre.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1060 com seguimento de condição estável.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1061 com choque séptico com febre 38.8°C e cianose.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1062 com mecanismo de trauma significativo em acidente de viação.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1063 com dor membro superior moderada 8\/10.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1064 com congestão nasal e espirros.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1065 com avaliação de rotina sem sintomas.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1066 com hipotensão (TA<90\/60 mmHg) e taquicardia (FC>142 bpm) com sudorese profusa.\nResposta: Vermelho. Dor torácica grave. Monitorização em sala de emergência."
+  },
+  {
+    "text":"Paciente 1067 com hipotermia com temperatura 38.8°C.\nResposta: Laranja. Trauma significativo. Avaliação rápida com imagem."
+  },
+  {
+    "text":"Paciente 1068 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1069 com congestão nasal e espirros.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1070 com avaliação de rotina sem sintomas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1071 com choque séptico com febre 38.6°C e palidez cutânea.\nResposta: Vermelho. Convulsão ativa. Suporte avançado."
+  },
+  {
+    "text":"Paciente 1072 com queda de altura >5 m com dor tornozelo intensa.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1073 com dor membro superior moderada 8\/10.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1074 com edema localizado em colo do útero.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1075 com necessita renovação de receita crónica.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1076 com dor torácica súbita intensa com confusão.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1077 com queda de altura >3 m com dor membro inferior intensa.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1078 com tosse produtiva com desconforto moderado.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1079 com ferida superficial em torácica.\nResposta: Verde. Orientaçao clínica."
+  },
+  {
+    "text":"Paciente 1080 com dúvidas sobre vacinação.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1081 com hemorragia ativa na mão com hipotensão.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1082 com queda de altura >5 m com dor ombro intensa.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1083 com dor joelho moderada 7\/10.\nResposta: Amarelo. Desidratação. Hidratação oral e vigilância."
+  },
+  {
+    "text":"Paciente 1084 com tosse seca leve sem febre.\nResposta: Verde. Analgesia simples e alta."
+  },
+  {
+    "text":"Paciente 1085 com avaliação de rotina sem sintomas.\nResposta: Azul. Sem sintomas significativos. Orientação e alta."
+  },
+  {
+    "text":"Paciente 1086 com hemorragia ativa na mão com hipotensão.\nResposta: Vermelho. Choque. Reanimação imediata."
+  },
+  {
+    "text":"Paciente 1087 com queda de altura >4 m com dor cervical intensa.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1088 com distúrbio de coagulação conhecido em tratamento.\nResposta: Amarelo. Fratura exposta. Antibiótico e ortopedia."
+  },
+  {
+    "text":"Paciente 1089 com congestão nasal e espirros.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1090 com seguimento de condição estável.\nResposta: Azul. Consulta de rotina. Alta."
+  },
+  {
+    "text":"Paciente 1091 com crise epilética tónica generalizada.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1092 com hemorragia cutânea moderada e FC 132 bpm.\nResposta: Laranja. Hemorragia moderada. Suturar e observação."
+  },
+  {
+    "text":"Paciente 1093 com história de perda de consciência breve após queda.\nResposta: Amarelo. História de inconsciência. Imobilização e radiografia."
+  },
+  {
+    "text":"Paciente 1094 com edema localizado em membro inferior.\nResposta: Verde. Avaliação em consulta."
+  },
+  {
+    "text":"Paciente 1095 com revisão pós-operatória sem queixas.\nResposta: Azul. Esclarecimento de dúvidas. Alta."
+  },
+  {
+    "text":"Paciente 1096 com crise epilética tónica generalizada.\nResposta: Vermelho. Hipoglicemia. Administração de glicose IV."
+  },
+  {
+    "text":"Paciente 1097 com hipotermia com temperatura 40.1°C.\nResposta: Laranja. Dor intensa. Analgesia EV e priorizar consulta."
+  },
+  {
+    "text":"Paciente 1098 com dor tórax moderada 9\/10.\nResposta: Amarelo. Dor moderada. Analgesia oral e reavaliação."
+  },
+  {
+    "text":"Paciente 1099 com ferida superficial em oral.\nResposta: Verde. Acompanhamento em consulta."
+  },
+  {
+    "text":"Paciente 1100 com revisão pós-operatória sem queixas.\nResposta: Azul. Consulta de rotina. Alta."
+  }
+]
